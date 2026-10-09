@@ -28,6 +28,13 @@ Duuni-Bot extracts IT job listings from duunitori.fi. Run it locally, or build a
 
 ### Run in a container
 
+The easiest way is the ready-made image from quay.io:
+
+- macOS: `bash tools/run/targets/macos/run-quay-macos.sh`
+- Linux: `bash tools/run/targets/linux/run-quay-podman.sh`
+
+Or build the image yourself:
+
 **macOS (Apple's Container CLI)**
 ```shell
 bash tools/builds/targets/macos/build-image-macos.sh
@@ -287,6 +294,39 @@ See [Testing](./readme-testing.md) for details.
 ### B. From container
 
 The bot can also be run as a container. This is the most suitable option if you want to run it autonomously and do not want to take care of the environment preparations.
+
+#### Use the ready-made image (quay.io)
+
+The image is published at `quay.io/vellamo/duuni-bot:latest`, so you can run it without building anything:
+
+- macOS (Apple's Container CLI):
+  ```shell
+  bash tools/run/targets/macos/run-quay-macos.sh
+  ```
+- Linux (Podman):
+  ```shell
+  bash tools/run/targets/linux/run-quay-podman.sh
+  ```
+
+Both scripts pull the image, create and start the container, and mount `$HOME/duuni-data` at `/data` (override with `DB_ENV_PATH_DATA`). They also accept:
+
+| Argument   | What it does                       |
+| ---------- | ---------------------------------- |
+| `--stop`   | Stop the container if it exists    |
+| `--remove` | Remove the container and the image |
+
+Or pull and run manually:
+
+```shell
+# Podman
+podman pull quay.io/vellamo/duuni-bot:latest
+podman run -d --name duuni-bot -v "$HOME/duuni-data:/data" quay.io/vellamo/duuni-bot:latest
+
+# Apple's Container CLI
+container image pull quay.io/vellamo/duuni-bot:latest
+container create --name duuni-bot --volume "$HOME/duuni-data:/data" quay.io/vellamo/duuni-bot:latest
+container start duuni-bot
+```
 
 #### How to build image
 

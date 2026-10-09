@@ -15,6 +15,15 @@ bash src/main/bash/duuni-bot.sh     # run all steps
 bash src/main/bash/run.sh -s N      # run one step
 ```
 
+Or run the ready-made container image from quay.io without building:
+
+```shell
+bash tools/run/targets/macos/run-quay-macos.sh    # macOS (Apple's Container CLI)
+bash tools/run/targets/linux/run-quay-podman.sh   # Linux (Podman)
+```
+
+The image is `quay.io/vellamo/duuni-bot:latest`.
+
 ## Verify
 
 First, confirm the environment can run the app:
