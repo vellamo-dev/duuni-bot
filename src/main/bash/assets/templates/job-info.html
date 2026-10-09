@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Job Title</title>
+    <style>
+        html {
+            font-size: 20px;
+        }
+
+        body {
+            font-family: system-ui, sans-serif;
+            line-height: 1.45;
+            margin: 40px;
+        }
+
+        div.container-job-info {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px 30px 100px 30px;
+        }
+
+        /*noinspection CssUnusedSymbol*/
+        button#report-job-ad {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<div class="container-job-info">
+    <!-- Job Info -->
+</div>
+<script>
+    // Insert the page title as the first <h1> inside the container once the
+    // page has loaded, so the saved HTML body does not contain the heading.
+    document.addEventListener('DOMContentLoaded', function () {
+        var container = document.querySelector('div.container-job-info');
+        if (!container) {
+            return;
+        }
+        var heading = document.createElement('h1');
+        heading.textContent = document.title;
+        container.insertBefore(heading, container.firstChild);
+    });
+</script>
+</body>
+</html>

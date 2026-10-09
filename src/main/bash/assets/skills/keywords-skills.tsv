@@ -1,0 +1,711 @@
+en_label	surface	lang	category
+python	python	en	programming language
+python	python	fi	programming language
+python	python	sv	programming language
+java	java	en	programming language
+java	java	fi	programming language
+java	java	sv	programming language
+kotlin	kotlin	en	programming language
+kotlin	kotlin	fi	programming language
+kotlin	kotlin	sv	programming language
+javascript	javascript	en	programming language
+javascript	js	en	programming language
+javascript	javascript	fi	programming language
+javascript	javascript	sv	programming language
+typescript	typescript	en	programming language
+typescript	typescript	fi	programming language
+typescript	typescript	sv	programming language
+c#	c#	en	programming language
+c#	csharp	en	programming language
+c#	c#	fi	programming language
+c#	c#	sv	programming language
+c++	c++	en	programming language
+c++	c++	fi	programming language
+c++	c++	sv	programming language
+go	golang	en	programming language
+go	golang	fi	programming language
+go	golang	sv	programming language
+rust	rust	en	programming language
+rust	rust	fi	programming language
+rust	rust	sv	programming language
+php	php	en	programming language
+php	php	fi	programming language
+php	php	sv	programming language
+ruby	ruby	en	programming language
+ruby	ruby	fi	programming language
+ruby	ruby	sv	programming language
+swift	swift	en	programming language
+swift	swift	fi	programming language
+swift	swift	sv	programming language
+scala	scala	en	programming language
+scala	scala	fi	programming language
+scala	scala	sv	programming language
+clojure	clojure	en	programming language
+clojure	clojure	fi	programming language
+clojure	clojure	sv	programming language
+elixir	elixir	en	programming language
+elixir	elixir	fi	programming language
+elixir	elixir	sv	programming language
+erlang	erlang	en	programming language
+erlang	erlang	fi	programming language
+erlang	erlang	sv	programming language
+haskell	haskell	en	programming language
+haskell	haskell	fi	programming language
+haskell	haskell	sv	programming language
+dart	dart	en	programming language
+dart	dart	fi	programming language
+dart	dart	sv	programming language
+perl	perl	en	programming language
+perl	perl	fi	programming language
+perl	perl	sv	programming language
+groovy	groovy	en	programming language
+groovy	groovy	fi	programming language
+groovy	groovy	sv	programming language
+matlab	matlab	en	programming language
+matlab	matlab	fi	programming language
+matlab	matlab	sv	programming language
+julia	julia	en	programming language
+julia	julia	fi	programming language
+julia	julia	sv	programming language
+solidity	solidity	en	programming language
+solidity	solidity	fi	programming language
+solidity	solidity	sv	programming language
+bash	bash	en	programming language
+bash	bash	fi	programming language
+bash	bash	sv	programming language
+powershell	powershell	en	programming language
+powershell	powershell	fi	programming language
+powershell	powershell	sv	programming language
+abap	abap	en	programming language
+abap	abap	fi	programming language
+abap	abap	sv	programming language
+pl/sql	pl/sql	en	programming language
+pl/sql	plsql	en	programming language
+pl/sql	pl/sql	fi	programming language
+pl/sql	pl/sql	sv	programming language
+t-sql	t-sql	en	programming language
+t-sql	tsql	en	programming language
+t-sql	t-sql	fi	programming language
+t-sql	t-sql	sv	programming language
+sql	sql	en	database
+sql	sql	fi	database
+sql	sql	sv	database
+backend development	backend	en	software development
+backend development	back-end	en	software development
+backend development	backend development	en	software development
+backend development	backend-kehitys	fi	software development
+backend development	taustakehitys	fi	software development
+backend development	backendutveckling	sv	software development
+frontend development	frontend	en	software development
+frontend development	front-end	en	software development
+frontend development	frontend development	en	software development
+frontend development	frontend-kehitys	fi	software development
+frontend development	käyttöliittymä	fi	software development
+frontend development	frontendutveckling	sv	software development
+full stack development	fullstack	en	software development
+full stack development	full stack	en	software development
+full stack development	full-stack	en	software development
+full stack development	full stack	fi	software development
+full stack development	full stack	sv	software development
+software development	software development	en	software development
+software development	ohjelmistokehitys	fi	software development
+software development	mjukvaruutveckling	sv	software development
+software development	programutveckling	sv	software development
+web development	web development	en	software development
+web development	verkkokehitys	fi	software development
+web development	webbutveckling	sv	software development
+mobile development	mobile development	en	software development
+mobile development	mobiilikehitys	fi	software development
+mobile development	mobilutveckling	sv	software development
+object-oriented programming	object-oriented programming	en	programming language
+object-oriented programming	oop	en	programming language
+object-oriented programming	olio-ohjelmointi	fi	programming language
+object-oriented programming	objektorienterad programmering	sv	programming language
+functional programming	functional programming	en	programming language
+functional programming	funktionaalinen ohjelmointi	fi	programming language
+functional programming	funktionell programmering	sv	programming language
+rest	rest	en	api
+rest	rest api	en	api
+rest	rest	fi	api
+rest	rest	sv	api
+graphql	graphql	en	api
+graphql	graphql	fi	api
+graphql	graphql	sv	api
+grpc	grpc	en	api
+grpc	grpc	fi	api
+grpc	grpc	sv	api
+soap	soap	en	api
+soap	soap	fi	api
+soap	soap	sv	api
+api	api	en	api
+api	rajapinta	fi	api
+api	gränssnitt	sv	api
+api gateway	api gateway	en	api
+api gateway	api-yhdyskäytävä	fi	api
+api gateway	api-gateway	sv	api
+microservices	microservices	en	architecture
+microservices	micro services	en	architecture
+microservices	mikropalvelu	fi	architecture
+microservices	mikropalvelut	fi	architecture
+microservices	mikrotjänst	sv	architecture
+microservices	mikrotjänster	sv	architecture
+event-driven architecture	event-driven architecture	en	architecture
+event-driven architecture	event driven	en	architecture
+event-driven architecture	tapahtumapohjainen	fi	architecture
+event-driven architecture	händelsebaserad	sv	architecture
+domain-driven design	domain-driven design	en	architecture
+domain-driven design	ddd	en	architecture
+domain-driven design	domain-driven design	fi	architecture
+domain-driven design	domain-driven design	sv	architecture
+hexagonal architecture	hexagonal architecture	en	architecture
+hexagonal architecture	heksagonaalinen	fi	architecture
+hexagonal architecture	hexagonal	sv	architecture
+data vault	data vault	en	data
+data vault	data vault 2.0	en	data
+data vault	data vault	fi	data
+data vault	data vault	sv	data
+postgresql	postgresql	en	database
+postgresql	postgres	en	database
+postgresql	postgresql	fi	database
+postgresql	postgresql	sv	database
+mysql	mysql	en	database
+mysql	mysql	fi	database
+mysql	mysql	sv	database
+mariadb	mariadb	en	database
+mariadb	mariadb	fi	database
+mariadb	mariadb	sv	database
+sql server	sql server	en	database
+sql server	mssql	en	database
+sql server	sql server	fi	database
+sql server	sql server	sv	database
+oracle database	oracle database	en	database
+oracle database	oracle db	en	database
+oracle database	oracle	fi	database
+oracle database	oracle	sv	database
+mongodb	mongodb	en	database
+mongodb	mongo	en	database
+mongodb	mongodb	fi	database
+mongodb	mongodb	sv	database
+redis	redis	en	database
+redis	redis	fi	database
+redis	redis	sv	database
+elasticsearch	elasticsearch	en	database
+elasticsearch	elastic search	en	database
+elasticsearch	elasticsearch	fi	database
+elasticsearch	elasticsearch	sv	database
+opensearch	opensearch	en	database
+opensearch	opensearch	fi	database
+opensearch	opensearch	sv	database
+cassandra	cassandra	en	database
+cassandra	cassandra	fi	database
+cassandra	cassandra	sv	database
+dynamodb	dynamodb	en	database
+dynamodb	dynamodb	fi	database
+dynamodb	dynamodb	sv	database
+neo4j	neo4j	en	database
+neo4j	neo4j	fi	database
+neo4j	neo4j	sv	database
+snowflake	snowflake	en	database
+snowflake	snowflake	fi	database
+snowflake	snowflake	sv	database
+bigquery	bigquery	en	database
+bigquery	bigquery	fi	database
+bigquery	bigquery	sv	database
+redshift	redshift	en	database
+redshift	redshift	fi	database
+redshift	redshift	sv	database
+database	database	en	database
+database	tietokanta	fi	database
+database	databas	sv	database
+data warehouse	data warehouse	en	data
+data warehouse	tietovarasto	fi	data
+data warehouse	datalager	sv	data
+data lake	data lake	en	data
+data lake	data lake	fi	data
+data lake	data lake	sv	data
+data model	data model	en	data
+data model	data modelling	en	data
+data model	data modeling	en	data
+data model	tietomalli	fi	data
+data model	tietomallinnus	fi	data
+data model	datamodell	sv	data
+data model	datamodellering	sv	data
+etl	etl	en	data
+etl	etl	fi	data
+etl	etl	sv	data
+elt	elt	en	data
+elt	elt	fi	data
+elt	elt	sv	data
+data pipeline	data pipeline	en	data
+data pipeline	dataputki	fi	data
+data pipeline	datapipeline	sv	data
+apache spark	spark	en	data
+apache spark	apache spark	en	data
+apache spark	spark	fi	data
+apache spark	spark	sv	data
+apache kafka	kafka	en	data
+apache kafka	apache kafka	en	data
+apache kafka	kafka	fi	data
+apache kafka	kafka	sv	data
+apache flink	flink	en	data
+apache flink	apache flink	en	data
+apache flink	flink	fi	data
+apache flink	flink	sv	data
+hadoop	hadoop	en	data
+hadoop	hadoop	fi	data
+hadoop	hadoop	sv	data
+hive	hive	en	data
+hive	hive	fi	data
+hive	hive	sv	data
+dbt	dbt	en	data
+dbt	dbt	fi	data
+dbt	dbt	sv	data
+airflow	airflow	en	data
+airflow	airflow	fi	data
+airflow	airflow	sv	data
+databricks	databricks	en	data
+databricks	databricks	fi	data
+databricks	databricks	sv	data
+fivetran	fivetran	en	data
+fivetran	fivetran	fi	data
+fivetran	fivetran	sv	data
+talend	talend	en	data
+talend	talend	fi	data
+talend	talend	sv	data
+informatica	informatica	en	data
+informatica	informatica	fi	data
+informatica	informatica	sv	data
+pandas	pandas	en	data
+pandas	pandas	fi	data
+pandas	pandas	sv	data
+numpy	numpy	en	data
+numpy	numpy	fi	data
+numpy	numpy	sv	data
+pytorch	pytorch	en	machine learning
+pytorch	pytorch	fi	machine learning
+pytorch	pytorch	sv	machine learning
+tensorflow	tensorflow	en	machine learning
+tensorflow	tensorflow	fi	machine learning
+tensorflow	tensorflow	sv	machine learning
+scikit-learn	scikit-learn	en	machine learning
+scikit-learn	sklearn	en	machine learning
+scikit-learn	scikit-learn	fi	machine learning
+scikit-learn	scikit-learn	sv	machine learning
+machine learning	machine learning	en	machine learning
+machine learning	koneoppiminen	fi	machine learning
+machine learning	maskininlärning	sv	machine learning
+deep learning	deep learning	en	machine learning
+deep learning	syväoppiminen	fi	machine learning
+deep learning	djupinlärning	sv	machine learning
+artificial intelligence	artificial intelligence	en	artificial intelligence
+artificial intelligence	tekoäly	fi	artificial intelligence
+artificial intelligence	artificiell intelligens	sv	artificial intelligence
+nlp	nlp	en	machine learning
+nlp	natural language processing	en	machine learning
+nlp	luonnollisen kielen käsittely	fi	machine learning
+nlp	sprakteknologi	sv	machine learning
+large language model	llm	en	artificial intelligence
+large language model	large language model	en	artificial intelligence
+large language model	kielimalli	fi	artificial intelligence
+large language model	sprakmodell	sv	artificial intelligence
+computer vision	computer vision	en	machine learning
+computer vision	konenäkö	fi	machine learning
+computer vision	datorseende	sv	machine learning
+power bi	power bi	en	analytics
+power bi	power bi	fi	analytics
+power bi	power bi	sv	analytics
+tableau	tableau	en	analytics
+tableau	tableau	fi	analytics
+tableau	tableau	sv	analytics
+looker	looker	en	analytics
+looker	looker	fi	analytics
+looker	looker	sv	analytics
+qlik	qlik	en	analytics
+qlik	qlik sense	en	analytics
+qlik	qlikview	en	analytics
+qlik	qlik	fi	analytics
+qlik	qlik	sv	analytics
+sas	sas	en	analytics
+sas	sas	fi	analytics
+sas	sas	sv	analytics
+data analysis	data analysis	en	analytics
+data analysis	data-analyysi	fi	analytics
+data analysis	aineistoanalyysi	fi	analytics
+data analysis	dataanalys	sv	analytics
+business intelligence	business intelligence	en	analytics
+business intelligence	liiketoimintatiedon hallinta	fi	analytics
+business intelligence	beslutsstod	sv	analytics
+aws	aws	en	cloud
+aws	amazon web services	en	cloud
+aws	aws	fi	cloud
+aws	aws	sv	cloud
+amazon s3	s3	en	cloud
+amazon s3	amazon s3	en	cloud
+amazon s3	s3	fi	cloud
+amazon s3	s3	sv	cloud
+aws lambda	lambda	en	cloud
+aws lambda	aws lambda	en	cloud
+aws lambda	lambda	fi	cloud
+aws lambda	lambda	sv	cloud
+amazon ec2	ec2	en	cloud
+amazon ec2	ec2	fi	cloud
+amazon ec2	ec2	sv	cloud
+amazon eks	eks	en	cloud
+amazon eks	eks	fi	cloud
+amazon eks	eks	sv	cloud
+amazon ecs	ecs	en	cloud
+amazon ecs	ecs	fi	cloud
+amazon ecs	ecs	sv	cloud
+amazon rds	rds	en	cloud
+amazon rds	rds	fi	cloud
+amazon rds	rds	sv	cloud
+microsoft azure	azure	en	cloud
+microsoft azure	azure	fi	cloud
+microsoft azure	azure	sv	cloud
+azure devops	azure devops	en	devops
+azure devops	azure devops	fi	devops
+azure devops	azure devops	sv	devops
+azure kubernetes service	aks	en	cloud
+azure kubernetes service	aks	fi	cloud
+azure kubernetes service	aks	sv	cloud
+google cloud	google cloud	en	cloud
+google cloud	gcp	en	cloud
+google cloud	google cloud	fi	cloud
+google cloud	google cloud	sv	cloud
+cloud computing	cloud computing	en	cloud
+cloud computing	cloud	en	cloud
+cloud computing	pilvipalvelu	fi	cloud
+cloud computing	pilvipalvelut	fi	cloud
+cloud computing	molntjänst	sv	cloud
+cloud computing	molntjänster	sv	cloud
+saas	saas	en	cloud
+saas	saas	fi	cloud
+saas	saas	sv	cloud
+docker	docker	en	devops
+docker	docker	fi	devops
+docker	docker	sv	devops
+podman	podman	en	devops
+podman	podman	fi	devops
+podman	podman	sv	devops
+kubernetes	kubernetes	en	devops
+kubernetes	k8s	en	devops
+kubernetes	kubernetes	fi	devops
+kubernetes	kubernetes	sv	devops
+helm	helm	en	devops
+helm	helm	fi	devops
+helm	helm	sv	devops
+terraform	terraform	en	devops
+terraform	terraform	fi	devops
+terraform	terraform	sv	devops
+ansible	ansible	en	devops
+ansible	ansible	fi	devops
+ansible	ansible	sv	devops
+puppet	puppet	en	devops
+puppet	puppet	fi	devops
+puppet	puppet	sv	devops
+jenkins	jenkins	en	devops
+jenkins	jenkins	fi	devops
+jenkins	jenkins	sv	devops
+github actions	github actions	en	devops
+github actions	github actions	fi	devops
+github actions	github actions	sv	devops
+gitlab ci	gitlab ci	en	devops
+gitlab ci	gitlab-ci	en	devops
+gitlab ci	gitlab ci	fi	devops
+gitlab ci	gitlab ci	sv	devops
+argo cd	argo cd	en	devops
+argo cd	argocd	en	devops
+argo cd	argocd	fi	devops
+argo cd	argocd	sv	devops
+ci/cd	ci/cd	en	devops
+ci/cd	cicd	en	devops
+ci/cd	continuous integration	en	devops
+ci/cd	continuous delivery	en	devops
+ci/cd	jatkuva integraatio	fi	devops
+ci/cd	kontinuerlig integration	sv	devops
+infrastructure as code	infrastructure as code	en	devops
+infrastructure as code	infrastruktuuri koodina	fi	devops
+infrastructure as code	infrastruktur som kod	sv	devops
+linux	linux	en	operating system
+linux	linux	fi	operating system
+linux	linux	sv	operating system
+windows	windows	en	operating system
+windows	windows	fi	operating system
+windows	windows	sv	operating system
+git	git	en	devops
+git	git	fi	devops
+git	git	sv	devops
+github	github	en	devops
+github	github	fi	devops
+github	github	sv	devops
+gitlab	gitlab	en	devops
+gitlab	gitlab	fi	devops
+gitlab	gitlab	sv	devops
+agile	agile	en	method
+agile	ketterä	fi	method
+agile	ketterät menetelmät	fi	method
+agile	agil	sv	method
+agile	agila	sv	method
+scrum	scrum	en	method
+scrum	scrum	fi	method
+scrum	scrum	sv	method
+kanban	kanban	en	method
+kanban	kanban	fi	method
+kanban	kanban	sv	method
+safe	safe	en	method
+safe	scaled agile	en	method
+safe	safe	fi	method
+safe	safe	sv	method
+togaf	togaf	en	architecture
+togaf	togaf	fi	architecture
+togaf	togaf	sv	architecture
+devops	devops	en	devops
+devops	devops	fi	devops
+devops	devops	sv	devops
+react	react	en	frontend
+react	react.js	en	frontend
+react	reactjs	en	frontend
+react	react	fi	frontend
+react	react	sv	frontend
+react native	react native	en	frontend
+react native	react native	fi	frontend
+react native	react native	sv	frontend
+next.js	next.js	en	frontend
+next.js	nextjs	en	frontend
+next.js	next.js	fi	frontend
+next.js	next.js	sv	frontend
+angular	angular	en	frontend
+angular	angular	fi	frontend
+angular	angular	sv	frontend
+vue.js	vue	en	frontend
+vue.js	vue.js	en	frontend
+vue.js	vuejs	en	frontend
+vue.js	vue	fi	frontend
+vue.js	vue	sv	frontend
+svelte	svelte	en	frontend
+svelte	svelte	fi	frontend
+svelte	svelte	sv	frontend
+nuxt	nuxt	en	frontend
+nuxt	nuxt	fi	frontend
+nuxt	nuxt	sv	frontend
+redux	redux	en	frontend
+redux	redux	fi	frontend
+redux	redux	sv	frontend
+tailwind	tailwind	en	frontend
+tailwind	tailwind	fi	frontend
+tailwind	tailwind	sv	frontend
+webpack	webpack	en	frontend
+webpack	webpack	fi	frontend
+webpack	webpack	sv	frontend
+vite	vite	en	frontend
+vite	vite	fi	frontend
+vite	vite	sv	frontend
+node.js	node.js	en	programming language
+node.js	nodejs	en	programming language
+node.js	node	en	programming language
+node.js	node.js	fi	programming language
+node.js	node.js	sv	programming language
+spring	spring	en	framework
+spring	spring	fi	framework
+spring	spring	sv	framework
+spring boot	spring boot	en	framework
+spring boot	spring boot	fi	framework
+spring boot	spring boot	sv	framework
+quarkus	quarkus	en	framework
+quarkus	quarkus	fi	framework
+quarkus	quarkus	sv	framework
+micronaut	micronaut	en	framework
+micronaut	micronaut	fi	framework
+micronaut	micronaut	sv	framework
+.net	.net	en	framework
+.net	dotnet	en	framework
+.net	asp.net	en	framework
+.net	.net	fi	framework
+.net	.net	sv	framework
+django	django	en	framework
+django	django	fi	framework
+django	django	sv	framework
+flask	flask	en	framework
+flask	flask	fi	framework
+flask	flask	sv	framework
+fastapi	fastapi	en	framework
+fastapi	fastapi	fi	framework
+fastapi	fastapi	sv	framework
+ruby on rails	ruby on rails	en	framework
+ruby on rails	rails	en	framework
+ruby on rails	rails	fi	framework
+ruby on rails	rails	sv	framework
+laravel	laravel	en	framework
+laravel	laravel	fi	framework
+laravel	laravel	sv	framework
+nestjs	nestjs	en	framework
+nestjs	nest.js	en	framework
+nestjs	nestjs	fi	framework
+nestjs	nestjs	sv	framework
+express	express	en	framework
+express	express.js	en	framework
+express	express	fi	framework
+express	express	sv	framework
+flutter	flutter	en	frontend
+flutter	flutter	fi	frontend
+flutter	flutter	sv	frontend
+swiftui	swiftui	en	frontend
+swiftui	swiftui	fi	frontend
+swiftui	swiftui	sv	frontend
+html	html	en	frontend
+html	html	fi	frontend
+html	html	sv	frontend
+css	css	en	frontend
+css	css	fi	frontend
+css	css	sv	frontend
+information security	information security	en	security
+information security	tietoturva	fi	security
+information security	informationssäkerhet	sv	security
+cybersecurity	cybersecurity	en	security
+cybersecurity	cyber security	en	security
+cybersecurity	kyberturvallisuus	fi	security
+cybersecurity	cybersäkerhet	sv	security
+iam	iam	en	security
+iam	identity and access	en	security
+iam	iam	fi	security
+iam	iam	sv	security
+oauth	oauth	en	security
+oauth	oauth	fi	security
+oauth	oauth	sv	security
+openid connect	openid connect	en	security
+openid connect	oidc	en	security
+openid connect	openid	fi	security
+openid connect	openid	sv	security
+saml	saml	en	security
+saml	saml	fi	security
+saml	saml	sv	security
+keycloak	keycloak	en	security
+keycloak	keycloak	fi	security
+keycloak	keycloak	sv	security
+entra id	entra id	en	security
+entra id	azure ad	en	security
+entra id	entra id	fi	security
+entra id	entra id	sv	security
+active directory	active directory	en	security
+active directory	active directory	fi	security
+active directory	active directory	sv	security
+siem	siem	en	security
+siem	siem	fi	security
+siem	siem	sv	security
+zero trust	zero trust	en	security
+zero trust	zero trust	fi	security
+zero trust	zero trust	sv	security
+salesforce	salesforce	en	platform
+salesforce	salesforce	fi	platform
+salesforce	salesforce	sv	platform
+sap	sap	en	platform
+sap	sap	fi	platform
+sap	sap	sv	platform
+servicenow	servicenow	en	platform
+servicenow	servicenow	fi	platform
+servicenow	servicenow	sv	platform
+sharepoint	sharepoint	en	platform
+sharepoint	sharepoint	fi	platform
+sharepoint	sharepoint	sv	platform
+power platform	power platform	en	platform
+power platform	power apps	en	platform
+power platform	power automate	en	platform
+power platform	power platform	fi	platform
+power platform	power platform	sv	platform
+dynamics 365	dynamics 365	en	platform
+dynamics 365	dynamics	en	platform
+dynamics 365	dynamics	fi	platform
+dynamics 365	dynamics	sv	platform
+microsoft fabric	microsoft fabric	en	platform
+microsoft fabric	fabric	fi	platform
+microsoft fabric	fabric	sv	platform
+mulesoft	mulesoft	en	integration
+mulesoft	mulesoft	fi	integration
+mulesoft	mulesoft	sv	integration
+rabbitmq	rabbitmq	en	integration
+rabbitmq	rabbitmq	fi	integration
+rabbitmq	rabbitmq	sv	integration
+activemq	activemq	en	integration
+activemq	activemq	fi	integration
+activemq	activemq	sv	integration
+testing	testing	en	testing
+testing	testaus	fi	testing
+testing	testning	sv	testing
+test automation	test automation	en	testing
+test automation	testiautomaatio	fi	testing
+test automation	testautomatisering	sv	testing
+unit testing	unit testing	en	testing
+unit testing	yksikkötestaus	fi	testing
+unit testing	enhetstestning	sv	testing
+selenium	selenium	en	testing
+selenium	selenium	fi	testing
+selenium	selenium	sv	testing
+cypress	cypress	en	testing
+cypress	cypress	fi	testing
+cypress	cypress	sv	testing
+junit	junit	en	testing
+junit	junit	fi	testing
+junit	junit	sv	testing
+pytest	pytest	en	testing
+pytest	pytest	fi	testing
+pytest	pytest	sv	testing
+jira	jira	en	method
+jira	jira	fi	method
+jira	jira	sv	method
+confluence	confluence	en	method
+confluence	confluence	fi	method
+confluence	confluence	sv	method
+figma	figma	en	design
+figma	figma	fi	design
+figma	figma	sv	design
+ux	ux	en	design
+ux	user experience	en	design
+ux	käyttökokemus	fi	design
+ux	användarupplevelse	sv	design
+ui	ui	en	design
+ui	user interface	en	design
+ui	käyttöliittymä	fi	design
+ui	användargränssnitt	sv	design
+data architecture	data architecture	en	data
+data architecture	tietoarkkitehtuuri	fi	data
+data architecture	dataarkitektur	sv	data
+data governance	data governance	en	data
+data governance	tiedonhallinta	fi	data
+data governance	informationshantering	sv	data
+integration	integration	en	integration
+integration	integraatio	fi	integration
+integration	integration	sv	integration
+system design	system design	en	architecture
+system design	järjestelmäsuunnittelu	fi	architecture
+system design	systemdesign	sv	architecture
+erp	erp	en	platform
+erp	erp	fi	platform
+erp	toiminnanohjaus	fi	platform
+erp	erp	sv	platform
+erp	affarssystem	sv	platform
+crm	crm	en	platform
+crm	crm	fi	platform
+crm	asiakkuudenhallinta	fi	platform
+crm	crm	sv	platform
+prometheus	prometheus	en	devops
+prometheus	prometheus	fi	devops
+prometheus	prometheus	sv	devops
+grafana	grafana	en	devops
+grafana	grafana	fi	devops
+grafana	grafana	sv	devops
+elk stack	elk	en	devops
+elk stack	elastic stack	en	devops
+elk stack	elk	fi	devops
+elk stack	elk	sv	devops
+opentelemetry	opentelemetry	en	devops
+opentelemetry	opentelemetry	fi	devops
+opentelemetry	opentelemetry	sv	devops
+excel	excel	en	analytics
+excel	excel	fi	analytics
+excel	excel	sv	analytics
+linux containers	container	en	devops
+linux containers	containers	en	devops
+linux containers	kontti	fi	devops
+linux containers	kontit	fi	devops
+linux containers	container	sv	devops
+linux containers	containrar	sv	devops

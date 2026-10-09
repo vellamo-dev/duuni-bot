@@ -1,0 +1,4 @@
+ESCO v1.1.1 digitalSkillsCollection
+Source: https://ec.europa.eu/esco/download/ESCO%20dataset%20-%20v1.1.1%20-%20classification%20-%20en%20-%20csv.zip
+Languages: en, fi, sv preferred and alternative labels.
+English preferred label is the stored keyword.

@@ -1,0 +1,7 @@
+lid.176.ftz (reduced)
+FastText language-identification model, deliberately reduced to the languages
+that appear on the target site. The bundled file (~920 KB) is a raw binary and
+is much smaller than the upstream compressed model (~126 MB gzip); it is kept
+small on purpose so language detection stays lightweight and offline.
+Reference source: https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.ftz
+License: CC-BY-SA-3.0
