@@ -28,16 +28,17 @@ RUN python3 -m venv /opt/venv \
 # ---------------------------------------------------------------------------
 FROM debian:bookworm-slim
 
-ARG TARGETARCH
-
 # System dependencies.
 RUN apt-get update && apt-get install -y --no-install-recommends \
         bash ca-certificates curl jq pandoc python3 tzdata \
     && rm -rf /var/lib/apt/lists/*
 
 # supercronic - static cron binary, available for amd64 and arm64.
-RUN curl -fsSL -o /usr/local/bin/supercronic \
-        "https://github.com/aptible/supercronic/releases/download/v0.2.49/supercronic-linux-${TARGETARCH}" \
+# Detect the architecture at build time so the download works on every builder
+# (TARGETARCH is a BuildKit automatic arg and is empty on some builders).
+RUN arch="$(dpkg --print-architecture)" \
+    && curl -fsSL -o /usr/local/bin/supercronic \
+        "https://github.com/aptible/supercronic/releases/download/v0.2.49/supercronic-linux-${arch}" \
     && chmod +x /usr/local/bin/supercronic
 
 # htmlq and the Python venv built in the builder stage.
