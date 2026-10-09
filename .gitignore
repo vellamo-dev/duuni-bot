@@ -1,0 +1,41 @@
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# --- Editors / IDEs ---
+.idea/
+.vscode/
+*.iml
+
+# --- AI tooling ---
+.junie/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+ENV/
+.eggs/
+*.egg-info/
+
+# --- Duuni-Bot runtime output ---
+
+# --- Temporary / partial files ---
+*.part
+*.tmp
+*.swp
+*.swo
+*~
+
+# --- OS ---
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,32 @@
+# Line endings: force Unix/Mac (LF) for all text files.
+* text=auto eol=lf
+
+# Shell scripts.
+*.sh text eol=lf
+
+# Python.
+*.py text eol=lf
+
+# Web / markup.
+*.html text eol=lf
+*.css  text eol=lf
+*.js   text eol=lf
+*.json text eol=lf
+
+# Docs and data.
+*.md   text eol=lf
+*.txt  text eol=lf
+*.tsv  text eol=lf
+*.csv  text eol=lf
+
+# Binary files: Git must not convert their line endings.
+*.ftz  binary
+*.bin  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.pdf  binary
+*.zip  binary
+*.gz   binary

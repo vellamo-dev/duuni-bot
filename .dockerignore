@@ -1,0 +1,23 @@
+# VCS / IDE / editor
+.git/
+.gitignore
+.gitattributes
+.idea/
+.junie/
+.run/
+.vscode/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Documentation (not needed at runtime)
+readme*.md
+
+# Standalone tools (not used by the automated chain)
+tools/
+
+# Runtime data - never bake these into the image
+*.log
+*.part
+*.tmp
